@@ -1,0 +1,10 @@
+[project]
+name = "note-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "bilibili-api-python>=17.1.4",
+    "mcp[cli]>=1.7.1",
+]
